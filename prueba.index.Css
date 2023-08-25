@@ -1,0 +1,63 @@
+
+nav ul li {
+    display: inline;
+    margin: 0 50px;
+
+  }
+
+
+  body {
+    text-align: center;
+background-color: rgb(204, 211, 211);
+  }
+
+
+  
+ h1{
+background-color: rgb(168, 139, 196) ;
+border: 20px  dotted;
+  }
+
+
+
+
+ h1 {
+    color: rgb(250, 210, 210);
+  }
+
+  
+section h2 {
+    font-size: 40px;
+  }
+
+
+  .producto {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+  .producto {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #b64d4d;
+    text-align: left;
+  }
+
+
+  .precio {
+    font-weight: bold;
+    color: #007bff;
+  }
+
+  
+  .producto img {
+    max-width: 100px;
+  }
+
+
+  .productos {
+    padding: 20px;
+    text-align: center;
+  }
